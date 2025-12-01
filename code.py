@@ -6,7 +6,7 @@ import tempfile
 # Set up the Snowflake session
 session = get_active_session()
 
-# Custom CSS for styling
+# CustomS for styling
 st.markdown(
     """
     <style>
