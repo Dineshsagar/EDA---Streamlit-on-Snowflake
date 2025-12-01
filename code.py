@@ -3,8 +3,6 @@ import pandas as pd
 from snowflake.snowpark.context import get_active_session
 import ydata_profiling as ydp
 import tempfile
-
-
 # Set up the Snowflake session
 session = get_active_session()
 
